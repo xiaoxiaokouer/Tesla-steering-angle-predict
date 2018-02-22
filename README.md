@@ -1,2 +1,2 @@
-# Tesla-steering-angle-predict
-Udacity project
+
+practise project
